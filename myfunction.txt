@@ -1,5 +1,7 @@
- Function----This is important function.
+ Function----This is  ok function.
  onefunction-This is function one is important.
  twofunction -this is unneccessart.
 
 Add a chart function.
+
+Add a function to user via x method.
